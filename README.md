@@ -1,7 +1,7 @@
 # Pewlett Hackard Analysis
 
 ## Overview of the Analysis
-Pewlett Hackard is a large company with several thousand employees. As baby bloomers start retiring, PH is preparing to administer retirement packages to eligible employees and planning recruitment for positions that will need to be filled in the near future.
+Pewlett Hackard is a large company with several thousand employees. As baby bloomers start retiring, PH is preparing to administer retirement packages to eligible employees and planning recruitment for positions that will need to be backfilled in the near future.
 
 For this analysis, we had six CSV files to review and combine using SQL- relational databases (PostgressSQL). The results provided PH with the information needed to plan accordingly.
 
