@@ -29,7 +29,7 @@ The first step was to compile a list of employees who are eligible for retiremen
  <p align="center" width="100%">
     <img width="66%" src="https://github.com/molivajimenez22/Pewlett-Hackard-Analysis/blob/main/Resources/Unique_Titles.png">
 
-[Complete Raw Data - Employees Retirning by Title (no duplicates)](https://github.com/molivajimenez22/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv)
+[Complete Raw Data - Employees Retiring by Title (no duplicates)](https://github.com/molivajimenez22/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv)
 
 ### Role Type Forecast
 THis list highlights the types of roles that PH needs to prepare to start hiring for as it counts the employees ready for retirement and filters based on role. 
