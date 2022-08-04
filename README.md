@@ -32,7 +32,7 @@ The first step was to compile a list of employees who are eligible for retiremen
 [Complete Raw Data - Employees Retiring by Title (no duplicates)](https://github.com/molivajimenez22/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv)
 
 ### Role Type Forecast
-THis list highlights the types of roles that PH needs to prepare to start hiring for as it counts the employees ready for retirement and filters based on role. 
+This list highlights the types of roles that PH needs to prepare to start hiring for as it counts the employees ready for retirement and filters based on role. 
      
  <p align="center" width="100%">
     <img width="40%" src="https://github.com/molivajimenez22/Pewlett-Hackard-Analysis/blob/main/Resources/retiring_titles.png">
@@ -47,11 +47,11 @@ PH was also interested in obtaining a list of employees who are eligible for the
      
 ### Resources
 
-[Entity Relationship Diagrams (ERDs)](https://github.com/molivajimenez22/Pewlett-Hackard-Analysis/blob/main/Resources/EmployeeDB.png) - an ERD captured primary keys, foreign keys and data types for each column. Having an ERD map out the data made it easier when creating the same tables in the database. 
+[Entity Relationship Diagrams (ERDs)](https://github.com/molivajimenez22/Pewlett-Hackard-Analysis/blob/main/Resources/EmployeeDB.png) - this ERD captured primary keys, foreign keys and data types for each column. Having an ERD map out the data made it easier when creating the same tables in the database. 
      
 [Database Schemas (Tables)](https://github.com/molivajimenez22/Pewlett-Hackard-Analysis/blob/main/Resources/schema.sql) - this is the reference code used to create tables in the database.
      
-[Database Queries](https://github.com/molivajimenez22/Pewlett-Hackard-Analysis/blob/main/Queries/queries.sql) - this is the reference code used to combine, count, test the database.
+[Database Queries](https://github.com/molivajimenez22/Pewlett-Hackard-Analysis/blob/main/Queries/queries.sql) - this is the reference code used to combine, count, test the data.
 
  ## Summary
-Based on the findings, PH can anticipate that 72,458 employees will retire in the next few years. Of those retirining, majority are Senior Engineers followed by Senior Staff. We recommend that PH focus on recruitment efforts for these roles as they account for 70% of the workforce ready to retire. Finally, there are 1549 employees eligible for the Mentorship Program. 
+Based on the findings, PH can anticipate that 72,458 employees will retire in the next few years. Of those retirining, majority are Senior Engineers and Senior Staff. We recommend that PH focus on recruitment efforts for these roles as they account for 70% of the workforce ready to retire. Finally, there are 1549 employees eligible for the Mentorship Program. 
