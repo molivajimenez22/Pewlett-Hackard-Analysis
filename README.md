@@ -54,4 +54,4 @@ PH was also interested in obtaining a list of employees who are eligible for the
 [Database Queries](https://github.com/molivajimenez22/Pewlett-Hackard-Analysis/blob/main/Queries/queries.sql) - this is the reference code used to combine, count, test the data.
 
  ## Summary
-Based on the findings, PH can anticipate that 72,458 employees will retire in the next few years. Of those retirining, majority are Senior Engineers and Senior Staff. We recommend that PH focus on recruitment efforts for these roles as they account for 70% of the workforce ready to retire. Finally, there are 1549 employees eligible for the Mentorship Program. 
+Based on the findings, PH can anticipate that 72,458 employees will retire in the next few years. Of those retirining, majority are Senior Engineers and Senior Staff. We recommend that PH focus on recruitment efforts for these roles as they account for 70% of the workforce ready to retire. Finally, there are 1549 employees eligible for the Mentorship Program.
